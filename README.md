@@ -1,1 +1,1 @@
-# Dicoding_ML_Intermediate_Project_1-Create_NLP_Model_with_TensorFlow
+# Dicoding ML Intermediate Project 1 - NLP Model with TensorFlow
